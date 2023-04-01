@@ -1,4 +1,4 @@
 baseURL = 'https://dmitriyvde.github.io/'
 languageCode = 'en-us'
 title = 'Dmitriy Codes'
-theme = 'terminal'
+theme = 'm10c'
