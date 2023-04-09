@@ -1,12 +1,14 @@
 ---
 title: Welcome!
+description: Welcome to my GitHub pages' first post!
+pubDate: "Apr 09 2023"
+heroImage: "/placeholder-hero.jpg"
 date: 2023-04-01T17:41:04+02:00
 draft: false
-description: Welcome to my GitHub pages' first post!
 lastmod: 2023-04-01T16:29:52.295Z
 ---
 
-## Hi, I'm Dmitriy, nice to meet you!
+## Hi, I'm Dmitriy, nice to meet you
 
 This is my first post on my new GitHub pages site. I don't know why you're here,
 or why you're reading this, but I'm glad you are. I hope you'll enjoy the content
