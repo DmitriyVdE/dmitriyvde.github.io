@@ -2,7 +2,7 @@
   "$schema": "https://frontmatter.codes/frontmatter.schema.json",
   "frontMatter.content.autoUpdateDate": true,
   "frontMatter.framework.startCommand": "astro dev",
-  "frontMatter.preview.host": "http://localhost:1313/",
+  "frontMatter.preview.host": "http://localhost:3000",
   "frontMatter.taxonomy.contentTypes": [
     {
       "name": "default",
@@ -37,9 +37,14 @@
       ]
     }
   ],
-  "frontMatter.framework.id": "hugo",
-  "frontMatter.content.publicFolder": "static",
-  "frontMatter.content.pageFolders": [],
+  "frontMatter.framework.id": "astro",
+  "frontMatter.content.publicFolder": "public",
+  "frontMatter.content.pageFolders": [
+    {
+      "title": "dmitriyvde",
+      "path": "[[workspace]]/dmitriyvde/src/content"
+    }
+  ],
   "frontMatter.taxonomy.tags": [],
   "frontMatter.taxonomy.categories": []
 }
